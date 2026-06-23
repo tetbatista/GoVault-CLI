@@ -45,8 +45,6 @@ Pronto. Sem Docker, sem configuração, sem variáveis de ambiente.
 
 ## 📦 Ou baixe o binário direto
 
-> Em breve na seção de [Releases](https://github.com/tetbatista/govault/releases)
-
 ```bash
 # Linux/macOS — exemplo após download
 chmod +x govault
@@ -181,15 +179,6 @@ govault/
 | `github.com/golang-jwt/jwt` | Sessão com JWT |
 
 Todas instaladas automaticamente com `go mod tidy`.
-
----
-
-## 🗺️ Roadmap (próximas melhorias)
-
-- [ ] Gerador de senhas fortes embutido (`govault generate`)
-- [ ] Export/import de credenciais em formato criptografado
-- [ ] Timeout de sessão configurável
-- [ ] Suporte a categorias (trabalho, pessoal, etc.)
 
 ---
 
