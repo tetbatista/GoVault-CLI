@@ -1,0 +1,7 @@
+# binaries
+govault.exe
+govault
+
+# database (stored in home dir, not in project)
+*.db
+
